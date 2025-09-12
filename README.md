@@ -31,7 +31,7 @@ A Dump (our team didn't use Git in development)
 ##### Certificate
 `Certificate.pdf` (can also be found at [link](https://www.credential.net/53185cda-e4a4-46f1-be4a-00cdcd102694))
 
-##### whatever
+##### Whatever
 `README.md`  
 `LICENSE`
 
