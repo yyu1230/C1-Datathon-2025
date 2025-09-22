@@ -26,7 +26,7 @@ A Dump (our team didn't use Git in development)
 `stock_correlation_lag_plot.ipynb`  
 `stock_etf_correlation_analysis.ipynb`  
 `transportation.ipynb`  
-`var_stock_analysis.ipynb`
+`var_stock_analysis.ipynb`  
 `Team_13.zip` (all in one .zip file)
 
 ##### Certificate
