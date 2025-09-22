@@ -17,7 +17,7 @@ A Dump (our team didn't use Git in development)
 
 ##### Submitted Report
 `Team_13_report.pdf`  
-`Team_13_report.zip` (LaTeX code: not submitted, but included here for completeness)
+`Team_13_report.zip` (LaTeX code)
 
 ##### Submitted Code
 `gasoline_dependency.ipynb`  
@@ -27,6 +27,7 @@ A Dump (our team didn't use Git in development)
 `stock_etf_correlation_analysis.ipynb`  
 `transportation.ipynb`  
 `var_stock_analysis.ipynb`
+`Team_13.zip` (all in one .zip file)
 
 ##### Certificate
 `Certificate.pdf` (can also be found at [link](https://www.credential.net/53185cda-e4a4-46f1-be4a-00cdcd102694))
